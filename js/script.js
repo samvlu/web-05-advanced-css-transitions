@@ -1,0 +1,1 @@
+function e(){c.classList.toggle("animate")}var t=document.querySelector(".toggle"),c=document.querySelector("body");t.addEventListener("click",e);
